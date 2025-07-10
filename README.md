@@ -2,9 +2,7 @@
 
 **基于 xv6 系统的 MIT 课程实验报告**
 
-**2352471 刘震**
-
-* [Lab Utilities](#lab1-utilities)
+**2352471 刘震* [Lab Utilities](#lab-utilities)
   * [Boot xv6](#sublab1-boot-xv6)
   * [sleep](#sublab2-sleep)
   * [pingpong](#sublab3-pingpong)
@@ -18,17 +16,17 @@
   * [Print a page table](#sublab2-print-a-page-table)
   * [Detecting which pages have been accessed](#sublab3-detecting-which-pages-have-been-accessed)
 * [Lab Traps](#lab4-traps)
-  * [RISC-V assembly](#sublab1-riscv-assembly)
+  * [RISC-V assembly](#sublab1-risc-v-assembly)
   * [Backtrace](#sublab2-backtrace)
   * [Alarm](#sublab3-alarm)
 * [Lab Copy on-write](#lab5-copy-on-write)
-  * [Implement copy-on write](#sublab1-implement-copy-on-write)
+  * [Implement copy-on write](#sublab-implement-copy-on-write)
 * [Lab Multithreading](#lab6-multithreading)
   * [Uthread: switching between threads](#sublab1-uthread-switching-between-threads)
   * [Using threads](#sublab2-using-threads)
   * [Barrier](#sublab3-barrier)
 * [Lab network driver](#lab7-network-driver)
-  * [Your Job](#sublab1-your-job)
+  * [Your Job](#sublab-your-job)
 * [Lab Lock](#lab8-lock)
   * [Memory allocator](#sublab1-memory-allocator)
   * [Buffer cache](#sublab2-buffer-cache)
@@ -36,6 +34,8 @@
   * [Large files](#sublab1-large-files)
   * [Symbolic links](#sublab2-symbolic-links)
 * [Lab mmap](#lab10-mmap)
+
+
 
 
 
