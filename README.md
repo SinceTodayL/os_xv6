@@ -729,7 +729,7 @@ np->trace_mask = p->trace_mask;
 
 
 
-#### Subab2 Sysinfo
+#### Sublab2 Sysinfo
 
 ##### 一、环境搭建
 
